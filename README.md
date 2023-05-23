@@ -57,7 +57,10 @@ A repository for resources relating to NLP in the Balochi language
 
 ## Papers
 
-## Blog posts
+## Blog posts / Inspiration
+
+- Miranda, Lj (2021), "[Study notes on making word vectors from scratch](https://ljvmiranda921.github.io/notebook/2021/12/11/word-vectors/)". ([Also linked](https://towardsdatascience.com/creating-word-embeddings-coding-the-word2vec-algorithm-in-python-using-deep-learning-b337d0ba17a8))
+- Miranda, Lj (2022), "[Dependency parsing for a low-resource language (Tagalog)](https://ljvmiranda921.github.io/notebook/2022/04/24/low-resource-dep-parse/)".
 
 ## Institutions / Organisations
 
