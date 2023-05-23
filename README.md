@@ -34,33 +34,48 @@ A repository for resources relating to NLP in the Balochi language
 - Balochi Dictionary (SIL / Uppsala University) c. 2019. [Online](https://www.webonary.org/balochidictionary/). — Southern Balochi: 10868 words. ([Browse English](https://www.webonary.org/balochidictionary/browse/browse-english/) / [Browse Balochi](https://www.webonary.org/balochidictionary/browse/browse-vernacular/)).
 - Dashti, Nasser (2021). A Balochi English Dictionary. ([Amazon](https://www.amazon.com/Balochi-English-Dictionary-Naseer-Dashti/dp/1490798463?tag=soumet-20))
 - Dr Abdul Ghafoor Jahandideh (?) Persian - Balochi Dictionary. ([Vol 1](https://ia600900.us.archive.org/25/items/BalochiPersianDictionaryVolOne/Balochi%20Persian%20Dictionary%20Vol%20One.pdf) / [Vol 2](https://ia800900.us.archive.org/25/items/BalochiPersianDictionaryVolOne/Balochi%20Persian%20Dictionary%20Vol%20Two.pdf))
+- Sayad Ganj سیدگنج - The First Balochi Dictionary ([Github Repo](https://github.com/umairayub79/SayadGanj-Desktop))
 
 ## Balochi text data / datasets
 
-- [Balochi-Wordlists](https://github.com/JunaidQadirB/Balochi-Wordlists) — a repository collected by two Balochi speakers
+- [Balochi-Wordlists](https://github.com/JunaidQadirB/Balochi-Wordlists) — a repository collected by two Balochi speakers ([Junaid Qadir](https://github.com/JunaidQadirB) and [Balach Khan](https://github.com/balach-khan))
 - [Balochi Academy Digital Library](https://ebook.balochiacademy.org) — ebooks for download provided by the Balochi Academy
 - Pedagogical materials / readers (listed [here](http://salrc.uchicago.edu/workshops/sponsored/121203/resources/balochi_ronkin.htm) and [here](https://balochilinguist.wordpress.com/2011/03/25/teaching-materials-of-balochi-language/))
 - [Books in Balochi on Archive.org](https://archive.org/details/booksbylanguage_balochi?tab=about) — 102 books as of June 2023
 - [Balochi Library](https://balochlibrary.com)
 - The Qur'an in Balochi Translation. ([Various audio](https://www.amazon.com/Balochi-Translation-Ibrahim-Muhammad-Madani/dp/B00YM0L4PE/ref=sr_1_17?sr=8-17&tag=soumet-20&keywords=balochi&dchild=1&qid=1589942632) and [here](https://www.youtube.com/playlist?list=PLoO2BPgoarMENaWcvehV35_L1m-XalPot).)
 - [Baask.com](http://baask.com/archive/) — portal containing a lot of Balochi language materials.
+- The Bible and other Christian religious materials (Audio + texts) in Balochi. ([Link](https://joshuaproject.net/people_groups/15034/IR) via the Joshua Project)
+- Balochi word list ([Github repo](https://github.com/umairayub79/Balochi-Words)) - 15K+ words gathered to create a formal wordlist.
 
 ## Readers
 
 - Elbenbein, Josef (1990). An Anthology of Classical and Modern Balochi Literature (2 vols). — "Volume one, 465 pages, comprises a reader with Balochi texts and facing English translations, in various literary genres; the Balochi is all in Latin transcription. Volume two is a 167-page Balochi-English glossary, again in Latin script and alphabetic order."
 
+## Other Balochi materials
+
+- Balochi Spelling Bee ([Github repo](https://github.com/umairayub79/Balochi-SpellingBee))
+
 ## NLP resources
 
+- NER Project for Balochi ([Github repo](https://github.com/RaihanShakeel/Final-Year-Project))
+- NER Project for Balochi ([Github repo](https://github.com/daniyalshakeel5/Named-Entity-Recognation-for-Balochi-Language))
 - [PersoArabicLID](https://github.com/sinaahmadi/PersoArabicLID) — datasets and models for identifying various languages that use Persian/Arabic scripts
+- [UniBal](https://github.com/theunibal/UniBal) — An orthography designed to transcribe and write Balochi language. Includes lots of utilities and apps that use the writing system. (Google Fonts [that support Unibal Script](https://github.com/theunibal/UniBal))
 - [tkseem](https://github.com/ARBML/tkseem) — A tokenisation library for Arabic
 - [Maha](https://github.com/TRoboto/Maha) — text processing library for Arabic text
 
 ## Papers
 
+- Michael A. Hedderich, Lukas Lange, Heike Adel, Jannik Strötgen, Dietrich Klakow (2021), "[A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://aclanthology.org/2021.naacl-main.201/)", ACL Anthology.
+
 ## Blog posts / Inspiration
 
 - Miranda, Lj (2021), "[Study notes on making word vectors from scratch](https://ljvmiranda921.github.io/notebook/2021/12/11/word-vectors/)". ([Also linked](https://towardsdatascience.com/creating-word-embeddings-coding-the-word2vec-algorithm-in-python-using-deep-learning-b337d0ba17a8))
 - Miranda, Lj (2022), "[Dependency parsing for a low-resource language (Tagalog)](https://ljvmiranda921.github.io/notebook/2022/04/24/low-resource-dep-parse/)".
+- Bender, Emily M. (2019), "[The #BenderRule: On Naming the Languages We Study and Why It Matters](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/)".
+- Ahmadi, Sina (2019), "[Why does Kurdish language processing matter?](https://sinaahmadi.github.io/posts/why-kurdish-language-processing-matters.html)"
+- Ahmadi, Sina (2019), "[Is Kurdish a less-resourced language?](https://sinaahmadi.github.io/posts/is-kurdish-a-less-resourced-language.html)"
 
 ## Institutions / Organisations
 
