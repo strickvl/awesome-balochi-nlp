@@ -5,22 +5,49 @@ A repository for resources relating to NLP in the Balochi language
 
 - [Baluchi Language and Literature](https://www.iranicaonline.org/articles/baluchistan-iii) — the language entry from Encyclopedia Iranica.
 - [The Balochi Language Project](https://www.lingfil.uu.se/forskning/the-balochi-language-project/) — resources and information from Uppsala University (Sweden)
+- Jahani, Carina, and Korn, Agnes. (2009) “Balochi.” Iranian languages, edited by Windfuhr, Gernot, London, New York: Routledge, 2009, pp. 634-692. ([Link](https://www.routledge.com/The-Iranian-Languages/Windfuhr/p/book/9780415622356))
+- Jahani, Carina. (2013) “The Balochi language and languages in Iranian Balochistan.” The Journal of the Middle East and Africa 4.2 (2013): 153-167. ([Link](https://www.tandfonline.com/doi/abs/10.1080/21520844.2013.831333?journalCode=ujme20))
+- Spooner, Brian. “Balochi: Towards a Biography of the Language.” Language Policy and Language Conflict in Afghanistan and Its Neighbors: The Changing Politics of Language Choice 2 (2011): 319.
+- [Wiki-style Overview page](https://iranian-languages.arizona.edu/balochi) from the University of Arizona's Iranian Languages Center.
 
 ### Textbooks / Language learning resources
 
-- Mansel Longworth Dames (1922), A text book of the Balochi Language ([searchable](https://dsal.uchicago.edu/dictionaries/dames-textbook/) // [full text](https://archive.org/details/textbookofbaloch00damerich))
+- Mansel Longworth Dames (1922), A text book of the Balochi Language ([searchable](https://dsal.uchicago.edu/dictionaries/dames-textbook/) // [full text](https://archive.org/details/textbookofbaloch00damerich)) — Reflects Balochi spoken in Pakistan in the early twentieth century.
 - Dr. Abdul Razzaq Sabir (?), Balochi Reader. ([Dunwoody Press hardback](https://www.dunwoodypublishing.com/product-page/balochi-reader) / [audio cds](https://www.dunwoodypublishing.com/product-page/balochi-reader-audio-cd))
+- Barker, Muhammad Abd-al-Rahman and Aqil Khan Mengal. 1969/1980. A Course in Baluchi. Montreal: Institute of Islamic Studies, McGill University. — Reflects Balochi usage in Pakistan in the late 1960s.
+- Farrell, Timothy. 1990. Basic Balochi: An Introductory Course. Balochistan Monograph Series, 1. Naples: Instituto Universitario Orientale, Dipartimento di Studi Asiatici. — An introductory course on Southern Balochi. ([Hard copy](https://library.soas.ac.uk/Record/409066) @ SOAS)
+- Guilani, Jami Shakibi; Kordi, Qani (1992), Comparative Probe in the Iranian Dialects: Khashi Dialect of the Baluchi Language [Volume: 10].
+- [Textbooks on Archive.org](https://archive.org/search?query=subject%3A%22Baluchi+language%22) — 13 entries as of June 2023.
+- Michel Malherbe and Naseebullah (2013). Parlons Baloutche. (in French).
+- DLI Headstart: Balochi ([Online course](https://hs2.dliflc.edu/balochi.html))
+- DLI GLOSS: Balochi (Online reading + listening materials for study). [Link](https://gloss.dliflc.edu).
+- NFLC Graded Exercises and Materials. [Link](https://portal.nflc.umd.edu/lessons/language/balochi). 11 videos and materials for students of the language.
+- [DLI Language Survival Kit: Balochi](https://fieldsupport.dliflc.edu/productList.aspx?v=lsk). Basic phrasebooks for US military.
+- Okati, Farideh (2012). The Vowel Systems of Five Iranian Balochi Dialects. ([AbeBooks](https://www.abebooks.com/servlet/BookDetailsPL?bi=21221372929&searchurl=an%3Dokati%2Bfarideh%26sortby%3D17%26tn%3Dvowel%2Bsystems%2Bfive%2Biranian%2Bbalochi&cm_sp=snippet-_-srp1-_-title1))
+- Okati, Farideh, Pétur Helgason, and Carina Jahani. “Diphthongization in five Iranian Balochi dialects.” Orientalia Suecana 61 (2013): 107-119.
+- Soohani, Bahareh. The phonology of Iranian-Balochi dialects: description and analysis. Diss. 2017.
 
-### Dictionaries
+### Dictionaries / Glossaries
 
 - Mumtaz Ahmad (1985), Baluchi Glossary. ([sale copies](http://www.multilingualbooks.com/balochi.html) // [searchable](https://dsal.uchicago.edu/dictionaries/mumtaz/))
+- Gilbertson, George Waters; Khan, Ghano. English Balochi Colloquial Dictionary [Volume: 1 and 2] (1996).
+- Balochi Dictionary (SIL / Uppsala University) c. 2019. [Online](https://www.webonary.org/balochidictionary/). — Southern Balochi: 10868 words. ([Browse English](https://www.webonary.org/balochidictionary/browse/browse-english/) / [Browse Balochi](https://www.webonary.org/balochidictionary/browse/browse-vernacular/)).
+- Dashti, Nasser (2021). A Balochi English Dictionary. ([Amazon](https://www.amazon.com/Balochi-English-Dictionary-Naseer-Dashti/dp/1490798463?tag=soumet-20))
+- Dr Abdul Ghafoor Jahandideh (?) Persian - Balochi Dictionary. ([Vol 1](https://ia600900.us.archive.org/25/items/BalochiPersianDictionaryVolOne/Balochi%20Persian%20Dictionary%20Vol%20One.pdf) / [Vol 2](https://ia800900.us.archive.org/25/items/BalochiPersianDictionaryVolOne/Balochi%20Persian%20Dictionary%20Vol%20Two.pdf))
 
 ## Balochi text data / datasets
 
 - [Balochi-Wordlists](https://github.com/JunaidQadirB/Balochi-Wordlists) — a repository collected by two Balochi speakers
 - [Balochi Academy Digital Library](https://ebook.balochiacademy.org) — ebooks for download provided by the Balochi Academy
-- Balochi Books
+- Pedagogical materials / readers (listed [here](http://salrc.uchicago.edu/workshops/sponsored/121203/resources/balochi_ronkin.htm) and [here](https://balochilinguist.wordpress.com/2011/03/25/teaching-materials-of-balochi-language/))
+- [Books in Balochi on Archive.org](https://archive.org/details/booksbylanguage_balochi?tab=about) — 102 books as of June 2023
+- [Balochi Library](https://balochlibrary.com)
+- The Qur'an in Balochi Translation. ([Various audio](https://www.amazon.com/Balochi-Translation-Ibrahim-Muhammad-Madani/dp/B00YM0L4PE/ref=sr_1_17?sr=8-17&tag=soumet-20&keywords=balochi&dchild=1&qid=1589942632) and [here](https://www.youtube.com/playlist?list=PLoO2BPgoarMENaWcvehV35_L1m-XalPot).)
+- [Baask.com](http://baask.com/archive/) — portal containing a lot of Balochi language materials.
 
+## Readers
+
+- Elbenbein, Josef (1990). An Anthology of Classical and Modern Balochi Literature (2 vols). — "Volume one, 465 pages, comprises a reader with Balochi texts and facing English translations, in various literary genres; the Balochi is all in Latin transcription. Volume two is a 167-page Balochi-English glossary, again in Latin script and alphabetic order."
 
 ## NLP resources
 
@@ -36,6 +63,10 @@ A repository for resources relating to NLP in the Balochi language
 
 - [Balochi Academy](https://ebook.balochiacademy.org/about-us) (Quetta, Pakistan)
 - [Balochi Language Centre at Uppsala University](https://www.lingfil.uu.se/forskning/the-balochi-language-project/) (Uppsala University)
+- [Baloch Club, Bahrain](https://www.facebook.com/BalochClubBH/)
+- [Iranology Foundation, Iranshahr, Iran](http://iranology.ir)
+- [University of Balochistan, Quetta, Pakistan](http://www.uob.edu.pk)
+- [University of Sistan and Baluchestan, Zahedan, Iran](https://www.usb.ac.ir/en)
 
 ## Low-resource languages
 
