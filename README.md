@@ -1,4 +1,4 @@
-# balochi
+# Awesome Balochi NLP Resources
 A repository for resources relating to NLP in the Balochi language
 
 ## General Balochi language
