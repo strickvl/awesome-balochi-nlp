@@ -85,6 +85,7 @@ A repository for resources relating to NLP in the Balochi language
 - [Iranology Foundation, Iranshahr, Iran](http://iranology.ir)
 - [University of Balochistan, Quetta, Pakistan](http://www.uob.edu.pk)
 - [University of Sistan and Baluchestan, Zahedan, Iran](https://www.usb.ac.ir/en)
+- [Balochi NLP](https://github.com/BalochiNLP) Github organisation
 
 ## Low-resource languages
 
