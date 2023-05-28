@@ -2,8 +2,6 @@
 
 A repository for resources relating to NLP in the Balochi language.
 
-## Contents
-
 - [General Balochi language](#general-balochi-language)
   - [Textbooks / Language learning resources](#textbooks--language-learning-resources)
   - [Dictionaries / Glossaries](#dictionaries--glossaries)
