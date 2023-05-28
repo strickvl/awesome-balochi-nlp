@@ -1,7 +1,22 @@
 # Awesome Balochi NLP Resources
-A repository for resources relating to NLP in the Balochi language
 
-## General Balochi language
+A repository for resources relating to NLP in the Balochi language.
+
+## Contents
+
+- [General Balochi language](#multi-modal-multi-domain)
+  - [Textbooks / Language learning resources](#text)
+  - [Dictionaries / Glossaries](#images)
+- [Balochi text data / datasets](#audio)
+- [Readers](#video)
+- [Other Balochi materials](#time-series)
+- [NLP resources](#other)
+- [Papers]()
+- [Blog posts / Inspiration]()
+- [Institutions / Organisations]()
+- [Low-resource languages]()
+
+# General Balochi language
 
 - [Baluchi Language and Literature](https://www.iranicaonline.org/articles/baluchistan-iii) — the language entry from Encyclopedia Iranica.
 - [The Balochi Language Project](https://www.lingfil.uu.se/forskning/the-balochi-language-project/) — resources and information from Uppsala University (Sweden)
@@ -10,7 +25,7 @@ A repository for resources relating to NLP in the Balochi language
 - Spooner, Brian. “Balochi: Towards a Biography of the Language.” Language Policy and Language Conflict in Afghanistan and Its Neighbors: The Changing Politics of Language Choice 2 (2011): 319.
 - [Wiki-style Overview page](https://iranian-languages.arizona.edu/balochi) from the University of Arizona's Iranian Languages Center.
 
-### Textbooks / Language learning resources
+## Textbooks / Language learning resources
 
 - Mansel Longworth Dames (1922), A text book of the Balochi Language ([searchable](https://dsal.uchicago.edu/dictionaries/dames-textbook/) // [full text](https://archive.org/details/textbookofbaloch00damerich)) — Reflects Balochi spoken in Pakistan in the early twentieth century.
 - Dr. Abdul Razzaq Sabir (?), Balochi Reader. ([Dunwoody Press hardback](https://www.dunwoodypublishing.com/product-page/balochi-reader) / [audio cds](https://www.dunwoodypublishing.com/product-page/balochi-reader-audio-cd))
@@ -27,7 +42,7 @@ A repository for resources relating to NLP in the Balochi language
 - Okati, Farideh, Pétur Helgason, and Carina Jahani. “Diphthongization in five Iranian Balochi dialects.” Orientalia Suecana 61 (2013): 107-119.
 - Soohani, Bahareh. The phonology of Iranian-Balochi dialects: description and analysis. Diss. 2017.
 
-### Dictionaries / Glossaries
+## Dictionaries / Glossaries
 
 - Mumtaz Ahmad (1985), Baluchi Glossary. ([sale copies](http://www.multilingualbooks.com/balochi.html) // [searchable](https://dsal.uchicago.edu/dictionaries/mumtaz/))
 - Gilbertson, George Waters; Khan, Ghano. English Balochi Colloquial Dictionary [Volume: 1 and 2] (1996).
@@ -36,7 +51,7 @@ A repository for resources relating to NLP in the Balochi language
 - Dr Abdul Ghafoor Jahandideh (?) Persian - Balochi Dictionary. ([Vol 1](https://ia600900.us.archive.org/25/items/BalochiPersianDictionaryVolOne/Balochi%20Persian%20Dictionary%20Vol%20One.pdf) / [Vol 2](https://ia800900.us.archive.org/25/items/BalochiPersianDictionaryVolOne/Balochi%20Persian%20Dictionary%20Vol%20Two.pdf))
 - Sayad Ganj سیدگنج - The First Balochi Dictionary ([Github Repo](https://github.com/umairayub79/SayadGanj-Desktop))
 
-## Balochi text data / datasets
+# Balochi text data / datasets
 
 - [Balochi-Wordlists](https://github.com/JunaidQadirB/Balochi-Wordlists) — a repository collected by two Balochi speakers ([Junaid Qadir](https://github.com/JunaidQadirB) and [Balach Khan](https://github.com/balach-khan))
 - [Balochi Academy Digital Library](https://ebook.balochiacademy.org) — ebooks for download provided by the Balochi Academy
@@ -49,28 +64,31 @@ A repository for resources relating to NLP in the Balochi language
 - Balochi word list ([Github repo](https://github.com/umairayub79/Balochi-Words)) - 15K+ words gathered to create a formal wordlist.
 - [Kissah.org](https://kissah.org) - Stories in Balochi, collated by [Junaid Qadir](https://github.com/JunaidQadirB)
 
-## Readers
+# Readers
 
 - Elbenbein, Josef (1990). An Anthology of Classical and Modern Balochi Literature (2 vols). — "Volume one, 465 pages, comprises a reader with Balochi texts and facing English translations, in various literary genres; the Balochi is all in Latin transcription. Volume two is a 167-page Balochi-English glossary, again in Latin script and alphabetic order."
 
-## Other Balochi materials
+# Other Balochi materials
 
 - Balochi Spelling Bee ([Github repo](https://github.com/umairayub79/Balochi-SpellingBee))
 
-## NLP resources
+# NLP resources
 
 - NER Project for Balochi ([Github repo](https://github.com/RaihanShakeel/Final-Year-Project))
 - NER Project for Balochi ([Github repo](https://github.com/daniyalshakeel5/Named-Entity-Recognation-for-Balochi-Language))
 - [PersoArabicLID](https://github.com/sinaahmadi/PersoArabicLID) — datasets and models for identifying various languages that use Persian/Arabic scripts (specifically including Balochi; includes a dataset with specific examples in all the various languages covered)
 - [UniBal](https://github.com/theunibal/UniBal) — An orthography designed to transcribe and write Balochi language. Includes lots of utilities and apps that use the writing system. (Google Fonts [that support Unibal Script](https://github.com/theunibal/UniBal))
-- [tkseem](https://github.com/ARBML/tkseem) — A tokenisation library for Arabic
+
+## Useful tools / sister projects
+
+- [tkseem](https://github.com/ARBML/tkseem) — A tokenisation library (for Arabic)
 - [Maha](https://github.com/TRoboto/Maha) — text processing library for Arabic text
 
-## Papers
+# Papers
 
 - Michael A. Hedderich, Lukas Lange, Heike Adel, Jannik Strötgen, Dietrich Klakow (2021), "[A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://aclanthology.org/2021.naacl-main.201/)", ACL Anthology.
 
-## Blog posts / Inspiration
+# Blog posts / Inspiration
 
 - Miranda, Lj (2021), "[Study notes on making word vectors from scratch](https://ljvmiranda921.github.io/notebook/2021/12/11/word-vectors/)". ([Also linked](https://towardsdatascience.com/creating-word-embeddings-coding-the-word2vec-algorithm-in-python-using-deep-learning-b337d0ba17a8))
 - Miranda, Lj (2022), "[Dependency parsing for a low-resource language (Tagalog)](https://ljvmiranda921.github.io/notebook/2022/04/24/low-resource-dep-parse/)".
@@ -78,7 +96,7 @@ A repository for resources relating to NLP in the Balochi language
 - Ahmadi, Sina (2019), "[Why does Kurdish language processing matter?](https://sinaahmadi.github.io/posts/why-kurdish-language-processing-matters.html)"
 - Ahmadi, Sina (2019), "[Is Kurdish a less-resourced language?](https://sinaahmadi.github.io/posts/is-kurdish-a-less-resourced-language.html)"
 
-## Institutions / Organisations
+# Institutions / Organisations
 
 - [Balochi Academy](https://ebook.balochiacademy.org/about-us) (Quetta, Pakistan)
 - [Balochi Language Centre at Uppsala University](https://www.lingfil.uu.se/forskning/the-balochi-language-project/) (Uppsala University)
@@ -87,6 +105,6 @@ A repository for resources relating to NLP in the Balochi language
 - [University of Balochistan, Quetta, Pakistan](http://www.uob.edu.pk)
 - [University of Sistan and Baluchestan, Zahedan, Iran](https://www.usb.ac.ir/en)
 
-## Low-resource languages
+# Low-resource languages
 
 - [low-resource-languages](https://github.com/RichardLitt/low-resource-languages) — Resources for conservation, development, and documentation of low resource (human) languages.
