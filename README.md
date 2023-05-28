@@ -96,6 +96,7 @@ A repository for resources relating to NLP in the Balochi language.
 - Bender, Emily M. (2019), "[The #BenderRule: On Naming the Languages We Study and Why It Matters](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/)".
 - Ahmadi, Sina (2019), "[Why does Kurdish language processing matter?](https://sinaahmadi.github.io/posts/why-kurdish-language-processing-matters.html)"
 - Ahmadi, Sina (2019), "[Is Kurdish a less-resourced language?](https://sinaahmadi.github.io/posts/is-kurdish-a-less-resourced-language.html)"
+- Strick van Linschoten, Alex (2023-), [Series of posts on NLP & the Balochi language](https://mlops.systems/#category=balochi).
 
 # Institutions / Organisations
 
