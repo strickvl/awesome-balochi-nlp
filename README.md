@@ -61,7 +61,7 @@ A repository for resources relating to NLP in the Balochi language
 
 - NER Project for Balochi ([Github repo](https://github.com/RaihanShakeel/Final-Year-Project))
 - NER Project for Balochi ([Github repo](https://github.com/daniyalshakeel5/Named-Entity-Recognation-for-Balochi-Language))
-- [PersoArabicLID](https://github.com/sinaahmadi/PersoArabicLID) — datasets and models for identifying various languages that use Persian/Arabic scripts
+- [PersoArabicLID](https://github.com/sinaahmadi/PersoArabicLID) — datasets and models for identifying various languages that use Persian/Arabic scripts (specifically including Balochi; includes a dataset with specific examples in all the various languages covered)
 - [UniBal](https://github.com/theunibal/UniBal) — An orthography designed to transcribe and write Balochi language. Includes lots of utilities and apps that use the writing system. (Google Fonts [that support Unibal Script](https://github.com/theunibal/UniBal))
 - [tkseem](https://github.com/ARBML/tkseem) — A tokenisation library for Arabic
 - [Maha](https://github.com/TRoboto/Maha) — text processing library for Arabic text
