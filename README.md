@@ -4,17 +4,18 @@ A repository for resources relating to NLP in the Balochi language.
 
 ## Contents
 
-- [General Balochi language](#multi-modal-multi-domain)
-  - [Textbooks / Language learning resources](#text)
-  - [Dictionaries / Glossaries](#images)
-- [Balochi text data / datasets](#audio)
-- [Readers](#video)
-- [Other Balochi materials](#time-series)
-- [NLP resources](#other)
-- [Papers]()
-- [Blog posts / Inspiration]()
-- [Institutions / Organisations]()
-- [Low-resource languages]()
+- [General Balochi language](#general-balochi-language)
+  - [Textbooks / Language learning resources](#textbooks--language-learning-resources)
+  - [Dictionaries / Glossaries](#dictionaries--glossaries)
+- [Balochi text data / datasets](#balochi-text-data--datasets)
+- [Readers](#readers)
+- [Other Balochi materials](#other-balochi-materials)
+- [NLP resources](#nlp-resources)
+  - [User tools / sister projects](#useful-tools--sister-projects)
+- [Papers](#papers)
+- [Blog posts / Inspiration](#blog-posts--inspiration)
+- [Institutions / Organisations](#institutions--organisations)
+- [Low-resource languages](#low-resource-languages)
 
 # General Balochi language
 
