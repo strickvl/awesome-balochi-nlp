@@ -47,6 +47,7 @@ A repository for resources relating to NLP in the Balochi language
 - [Baask.com](http://baask.com/archive/) — portal containing a lot of Balochi language materials.
 - The Bible and other Christian religious materials (Audio + texts) in Balochi. ([Link](https://joshuaproject.net/people_groups/15034/IR) via the Joshua Project)
 - Balochi word list ([Github repo](https://github.com/umairayub79/Balochi-Words)) - 15K+ words gathered to create a formal wordlist.
+- [Kissah.org](https://kissah.org) - Stories in Balochi, collated by [Junaid Qadir](https://github.com/JunaidQadirB)
 
 ## Readers
 
