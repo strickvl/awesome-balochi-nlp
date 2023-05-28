@@ -101,11 +101,11 @@ A repository for resources relating to NLP in the Balochi language.
 # Institutions / Organisations
 
 - [Balochi Academy](https://ebook.balochiacademy.org/about-us) (Quetta, Pakistan)
-- [Balochi Language Centre at Uppsala University](https://www.lingfil.uu.se/forskning/the-balochi-language-project/) (Uppsala University)
+- [Balochi Language Centre](https://www.lingfil.uu.se/forskning/the-balochi-language-project/) (Uppsala University)
 - [Baloch Club, Bahrain](https://www.facebook.com/BalochClubBH/)
-- [Iranology Foundation, Iranshahr, Iran](http://iranology.ir)
-- [University of Balochistan, Quetta, Pakistan](http://www.uob.edu.pk)
-- [University of Sistan and Baluchestan, Zahedan, Iran](https://www.usb.ac.ir/en)
+- [Iranology Foundation](http://iranology.ir) (Iranshahr, Iran)
+- [University of Balochistan](http://www.uob.edu.pk) (Quetta, Pakistan)
+- [University of Sistan and Baluchestan](https://www.usb.ac.ir/en) (Zahedan, Iran)
 
 # Low-resource languages
 
