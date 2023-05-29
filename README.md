@@ -95,6 +95,7 @@ A repository for resources relating to NLP in the Balochi language.
 - Ahmadi, Sina (2019), "[Why does Kurdish language processing matter?](https://sinaahmadi.github.io/posts/why-kurdish-language-processing-matters.html)"
 - Ahmadi, Sina (2019), "[Is Kurdish a less-resourced language?](https://sinaahmadi.github.io/posts/is-kurdish-a-less-resourced-language.html)"
 - Strick van Linschoten, Alex (2023-), [Series of posts on NLP & the Balochi language](https://mlops.systems/#category=balochi).
+- Benoy, Kurian (2023), [Series of posts on a Malayalam NLP project](https://kurianbenoy.com/blog.html#category=malayalamtextmodels)
 
 # Institutions / Organisations
 
