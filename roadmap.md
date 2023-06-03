@@ -9,7 +9,7 @@ This is a non-exhaustive / incomplete list of some of the things for which work 
 - A conversion tool for language in different scripts
 - Dialect classifier
 - NER (named entity recognition) models
-- Good quality datasets
+- Good quality dataset(s) that are openly available for all to use
 
 ## Medium - Long term goals / projects
 
