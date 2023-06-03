@@ -24,5 +24,5 @@ This is a non-exhaustive / incomplete list of some of the things for which work 
 
 Support could possibly come from leading organisations in the space. Importantly, they both have a strong track-record of encouraging and offering support for low-resource languages:
 
-- Huggingface
-- Explosion (makers of Spacy)
+- [Huggingface](https://huggingface.co)
+- [Explosion](https://explosion.ai) (makers of [Spacy](https://spacy.io))
