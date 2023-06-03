@@ -1,6 +1,7 @@
 # Awesome Balochi NLP Resources
 
-A repository for resources relating to NLP in the Balochi language.
+A repository for resources relating to NLP in the Balochi language. A companion
+resource is [the Huggingface Balochi Machine Learning organisation](https://huggingface.co/balochiml).
 
 - [General Balochi language](#general-balochi-language)
   - [Textbooks / Language learning resources](#textbooks--language-learning-resources)
